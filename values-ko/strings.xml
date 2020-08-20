@@ -13,34 +13,33 @@
     <string name="action_settings">설정</string>
 
     <!-- !! TITLES -->
-    <string name="title_news_feed">사막 뉴스</string>
-    <string name="title_map">지도</string>
+    <string name="title_news_feed">검은사막 소식</string>
+    <string name="title_map">월드맵</string>
     <string name="title_header_timers">타이머</string>
     <string name="title_header_crafting">제작</string>
-    <string name="title_header_calculators">계산기</string>
+    <string name="title_header_calculators">시뮬레이터</string>
     <string name="title_header_charts">차트</string>
     <string name="title_header_misc">기타</string>
     <string name="title_main_timer">게임 타이머</string>
     <string name="title_boss_timer">보스 타이머</string>
     <string name="title_cooking_inspection">검사</string>
-    <string name="title_cooking_db">조리</string>
-    <string name="title_alchemy_db">연금술</string>
-    <string name="title_workshop_db">공장</string>
+    <string name="title_cooking_db">요리</string>
+    <string name="title_alchemy_db">연금</string>
+    <string name="title_workshop_db">제작소</string>
     <string name="title_processing_db">가공</string>
-    <string name="title_materialgroup">자재 그룹</string>
+    <string name="title_materialgroup">재료</string>
     <string name="title_failstack_calculator">실패 계산기</string>
-    <string name="title_horse_calculator">말 계산기</string>
-    <string name="title_market_calculator">시장 계산기</string>
-    <string name="title_failstack_chart">스태킹</string>
-    <string name="title_grinding_chart">사냥</string>
+    <string name="title_horse_calculator">교배</string>
+    <string name="title_market_calculator">거래소 실수익</string>
+    <string name="title_failstack_chart">강화</string>
+    <string name="title_grinding_chart">사냥터 정보</string>
     <string name="title_horse_chart">말 목록</string>
-    <string name="title_about">정보</string>
+    <string name="title_about">앱 정보</string>
     <string name="title_share">공유</string>
     <string name="title_rate_app">앱 평가</string>
 
     <!-- !! INTROS -->
-    <string name="intro_market" formatted="false">검은 사막의 기본 세율은 35% 입니다. 밸류 패키지 은 세금 반환 값의 30 %를 추가합니다.</string>
-    <string name="intro_grinding">연삭 반점은 <b>EXP 등급</b> (최고 ~ 최저) 으로 정렬됩니다.</string>
+    <string name="intro_market" formatted="false">거래소의 기본 세율은 35% 입니다. 밸류 패키지 적용시 판매금액의 84.5% (을)를 수령합니다.</string>
     <string name="intro_horselist">색상 조합은 가능한 자손을 계산하는 데 사용할 수 있습니다.</string>
 
     <!-- !! GENERAL -->
